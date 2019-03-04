@@ -43,26 +43,5 @@
                     {"value": "https://farm4.static.flickr.com/3629/3339128908_7aecabc34b_b.jpg"},
                 ]
             },
-            
-            {
-                "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-                "header": "Light wall",
-                "bgcolor":"0x9575cd",
-                "txtcolor":"0xfafafa",
-                "items": [
-                    {"value": "https://farm4.static.flickr.com/3567/3523321514_371d9ac42f_b.jpg"},
-                    {"value": "https://farm4.static.flickr.com/3629/3339128908_7aecabc34b_b.jpg"},
-                ]
-            },
-            {
-                "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-                "header": "Light wall",
-                "bgcolor":"0xf4511e",
-                "txtcolor":"0xfafafa",
-                "items": [
-                    {"value": "https://farm4.static.flickr.com/3567/3523321514_371d9ac42f_b.jpg"},
-                    {"value": "https://farm4.static.flickr.com/3629/3339128908_7aecabc34b_b.jpg"},
-                ]
-            },
             ]
 }
